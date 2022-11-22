@@ -13,6 +13,7 @@
 		E6A50138292D16DD00E5C36F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6A50136292D16DD00E5C36F /* Main.storyboard */; };
 		E6A5013A292D16DF00E5C36F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6A50139292D16DF00E5C36F /* Assets.xcassets */; };
 		E6A5013D292D16DF00E5C36F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6A5013B292D16DF00E5C36F /* LaunchScreen.storyboard */; };
+		E6A50144292D170D00E5C36F /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E6A50143292D170D00E5C36F /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E6A50137292D16DD00E5C36F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E6A50139292D16DF00E5C36F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6A5013C292D16DF00E5C36F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E6A50143292D170D00E5C36F /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		E6A5012F292D16DD00E5C36F /* Live-Newspaper */ = {
 			isa = PBXGroup;
 			children = (
+				E6A50143292D170D00E5C36F /* harrypotter.mp4 */,
 				E6A50130292D16DD00E5C36F /* AppDelegate.swift */,
 				E6A50132292D16DD00E5C36F /* art.scnassets */,
 				E6A50134292D16DD00E5C36F /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			files = (
 				E6A50133292D16DD00E5C36F /* art.scnassets in Resources */,
 				E6A5013D292D16DF00E5C36F /* LaunchScreen.storyboard in Resources */,
+				E6A50144292D170D00E5C36F /* harrypotter.mp4 in Resources */,
 				E6A5013A292D16DF00E5C36F /* Assets.xcassets in Resources */,
 				E6A50138292D16DD00E5C36F /* Main.storyboard in Resources */,
 			);
